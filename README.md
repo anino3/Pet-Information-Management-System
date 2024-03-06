@@ -6,9 +6,9 @@ CS22L_6469 Information Assurance
 
 
 Submitted by
-Melchor Angelo Bogoy
-Britz Kysler Francia 
-Amanda Jane Pila
+Melchor Angelo Bogoy,
+Britz Kysler Francia ,
+Amanda Jane Pila,
 Jasel Laude
 
 Submitted to
